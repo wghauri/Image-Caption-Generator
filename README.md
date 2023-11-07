@@ -4,3 +4,7 @@ The objective of this project is to predict captions for an input image. The fea
 BLEU Score was added as a metric to evaluate the performance of the model.
 
 The dataset that provided the inputs for this project is the [Flickr Dataset](https://www.kaggle.com/datasets/adityajn105/flickr8k). The Flickr dataset consists of 8k images and 5 captions for each image.
+
+<img src ="Images/dogs.png">
+
+<img src ="Images/ski.png">
