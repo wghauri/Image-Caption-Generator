@@ -7,4 +7,4 @@ The dataset that provided the inputs for this project is the [Flickr Dataset](ht
 
 <img alt="dogs" src ="Images/dogs.png">
 
-<img alt="ski" src ="Images/ski.png">
+<img alt="ski" src ="Images/Ski.png">
