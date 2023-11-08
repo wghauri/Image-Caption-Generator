@@ -6,4 +6,4 @@ BLEU Score was added as a metric to evaluate the performance of the model.
 The dataset that provided the inputs for this project is the [Flickr Dataset](https://www.kaggle.com/datasets/adityajn105/flickr8k). The Flickr dataset consists of 8k images and 5 captions for each image.
 
 <img alt="dogs" src ="Images/dogs.png">
-<img alt="ski" src ="Images/artist.png">
+
